@@ -28,7 +28,7 @@ Starting up
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Add additional notes about how to deploy this on a live system.
 
 ## Built With
 
@@ -37,6 +37,8 @@ Add additional notes about how to deploy this on a live system
 * [Siteleaf](https://www.siteleaf.com/) - Cloud CMS
 
 ## Contributing
+
+This is  beginners-friendly website,your contribution make your expirence better.
 
 ## Versioning
 
@@ -48,7 +50,7 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
